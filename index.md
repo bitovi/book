@@ -29,14 +29,14 @@ it's place in the Browser.
 
 ### JS + DOM = Browser
 
-JavaScript is not the Document Object Model (DOM). The [DOM](http://en.wikipedia.org/wiki/Document_Object_Model) is an 
+JavaScript is not the [Document Object Model](http://en.wikipedia.org/wiki/Document_Object_Model) (DOM). The DOM is an 
 API for interacting with an HTML document.  The DOM is what lets you get an element on the page by id via JavaScript with:
 
 ```
 var age = document.getElementById('age')
 ```
 
-But the DOM is not part of JavaScript.  JavaScript is a brand-name for the standardized 
+The DOM is not part of JavaScript.  JavaScript is a brand-name for the standardized 
 language known as [ECMAScript](http://en.wikipedia.org/wiki/ECMAScript).  
 
 
