@@ -39,7 +39,7 @@ it's place in the Browser.
 
 ## Thin Server Architecture
 
-## Dependency Management
+## Dependency Management `Mihael`
 
 ## Building Small Components `Austin`
 
