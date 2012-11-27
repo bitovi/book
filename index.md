@@ -10,11 +10,11 @@ know to build a JavaScript application. This is not intended to be an
 API reference as you can find those elsewhere.  Instead, this is designed
 to give you a general understanding so that any gaps can be immediately filled.
 
-## Understanding JavaScript
+## JavaScript
 
 ### JS + DOM = Browser
 
-## Understanding jQuery and the DOM
+## jQuery and the DOM
 
 ## Thin Server Architecture
 
