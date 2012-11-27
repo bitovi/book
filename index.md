@@ -6,8 +6,8 @@ title: Book
 # Welcome to the Book of Bitovi!
 
 Here you'll learn, or be pointed to, practically everything you need to 
-know to build a JavaScript application. This is not intended to be an
-API reference as you can find those elsewhere.  Instead, this is designed
+know to build a modern JavaScript application. This is not an
+API reference. You can find those elsewhere.  Instead, this is designed
 to give you a general understanding so that any gaps can be immediately filled.
 
 By __JavaScript application__ we mean an app where JavaScript is building most of the 
