@@ -40,7 +40,8 @@ But the DOM is not part of JavaScript.  JavaScript is a brand-name for the stand
 language known as [ECMAScript](http://en.wikipedia.org/wiki/ECMAScript).  
 
 
-The following video describes what happens when the browser loads a page like:
+The following video helps describe how the DOM and JavaScript work together by detailing what happens when
+ the browser loads a page like:
 
 {% highlight html %}
 <html>
