@@ -29,6 +29,21 @@ it's place in the Browser.
 
 ### JS + DOM = Browser
 
+The following video describes what happens when the browser loads a page like:
+
+{% highlight html %}
+<html>
+  <head>
+    <script type='text/javascript'>
+      alert('hello js');
+    </script>
+  </head>
+  <body>
+    <h1>Hello DOM</h1>
+  </body>
+</html>
+{% endhighlight %}
+
 ### Dynamic
 
 ### Closures
