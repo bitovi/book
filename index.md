@@ -31,7 +31,7 @@ person.attr({
 })
 {% endhighlight %}
 
-### What you need to know about JavaScript
+### JavaScript
 
 ### Sub heading 2
 
