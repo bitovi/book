@@ -13,7 +13,7 @@ to give you a general understanding so that any gaps can be immediately filled.
 By __JavaScript application__ we mean an app where JavaScript is building most of the 
 app's HTML and is communicating with the server via AJAX services.
 
-## JavaScript
+## JavaScript `Justin + Fara`
 
 Mastering JavaScript is the first step in building a JavaScript application. Unfortunately, many think 
 that libraries like 
@@ -35,7 +35,7 @@ it's place in the Browser.
 
 ### Prototypes
 
-## jQuery and the DOM
+## jQuery and the DOM `Justin + Fara`
 
 ## Thin Server Architecture
 
