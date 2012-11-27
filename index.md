@@ -30,7 +30,7 @@ it's place in the Browser.
 ### JS + DOM = Browser
 
 JavaScript is not the [Document Object Model](http://en.wikipedia.org/wiki/Document_Object_Model) (DOM). The DOM is an 
-API for interacting with an HTML document.  The DOM is what lets you get an element on the page by id via JavaScript with:
+API for interacting with n HTML document.  The DOM is what lets you get an element on the page by id via JavaScript with:
 
 ```
 var age = document.getElementById('age')
