@@ -43,6 +43,8 @@ it's place in the Browser.
 
 ## Building Small Components
 
+## Assembling Small Components
+
 ## Performance
 
 ### Building an app
