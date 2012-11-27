@@ -3,36 +3,25 @@ layout: default
 title: Book
 ---
 
-# Welcome to Book!
+# Welcome to the Book of Bitovi!
 
-This is the book
+Here you'll learn, or be pointed to, practically everything you need to 
+know to build a JavaScript application. This is not intended to be an
+API reference as you can find those elsewhere.  Instead, this is designed
+to give you a general understanding so that any gaps can be immediately filled.
 
-## First heading
+## Understanding JavaScript
 
-{% highlight javascript %}
-// Some highlighting
-var person = new can.Observe({
-  first : "Justin",
-  last : "Meyer"
-});
-var fullName = can.compute(function(){
-  return person.attr("first") +" "+ person.attr("last")
-})
+### 
 
-fullName() //-> "Justin Meyer"
+## Understanding jQuery and the DOM
 
-fullName.bind("change", function(ev, newVal, oldVal){
-  console.log("fullName changed from", oldVal,"to",newVal)
-});
+## Thin Server Architecture
 
-person.attr({
-  first: "David",
-  last: "Luecke"
-})
-{% endhighlight %}
+## Dependency Management
 
-## JavaScript
+## Building Small Components
 
-### Sub heading 2
+## Testing
 
-## Second heading
+## Documentation
