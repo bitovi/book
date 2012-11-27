@@ -31,7 +31,7 @@ person.attr({
 })
 {% endhighlight %}
 
-### JavaScript
+## JavaScript
 
 ### Sub heading 2
 
