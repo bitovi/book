@@ -12,7 +12,7 @@ to give you a general understanding so that any gaps can be immediately filled.
 
 ## Understanding JavaScript
 
-### 
+### JS + DOM = Browser
 
 ## Understanding jQuery and the DOM
 
