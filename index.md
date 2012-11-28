@@ -56,6 +56,11 @@ The following video helps describe how the DOM and JavaScript work together by d
 </html>
 {% endhighlight %}
 
+
+<iframe width="640" height="480" src="http://www.youtube.com/embed/4P8tNC3TZDM" frameborder="0" allowfullscreen>
+What happens when a browser opens a webpage
+</iframe>
+
 ### Dynamic
 
 ### Closures
