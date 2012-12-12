@@ -69,7 +69,7 @@ What happens when a browser opens a webpage
 
 ## jQuery and the DOM `Justin + Fara`
 
-## Thin Server Architecture
+## Thin Server Architecture `Curtis`
 
 ## Dependency Management `Mihael`
 
