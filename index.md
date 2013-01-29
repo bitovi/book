@@ -78,10 +78,10 @@ results in "Project" being created in memory like:
 
 Address | Value | Description
 ------------ | -------------
-x1000 | ... | 
+x1000 | ... | ...
 x1001 | string | the type
 x1002 | project | the string's data
-x1003 | ...
+x1003 | ... | ...
 
 Next, the left hand side `var str` is run. This creates
 a variable in the current _call object_ (we'll learn more about this in a second) like:
