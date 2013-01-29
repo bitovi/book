@@ -278,6 +278,19 @@ em {
 #content ol { list-style-type: decimal }
 #content b,
 #content strong { font-weight: bold }
+
+#content table tr:nth-child(2n) {
+    background-color: #F8F8F8;
+}
+#content table tr {
+    background-color: #FFFFFF;
+    border-top: 1px solid #CCCCCC;
+}
+#content table th, #content table td {
+    border: 1px solid #CCCCCC;
+    padding: 6px 13px;
+}
+
 body {
 	-moz-tab-size: 1;
 	-o-tab-size: 1;
