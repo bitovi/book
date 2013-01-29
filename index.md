@@ -63,6 +63,10 @@ What happens when a browser opens a webpage
 
 ### Dynamic
 
+Name | Phone | Skype | Email
+------------ | ------------- | ------------ | -------------
+foo | bar | def | abc
+
 ### Closures
 
 ### Prototypes
