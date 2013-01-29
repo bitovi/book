@@ -63,6 +63,13 @@ What happens when a browser opens a webpage
 
 ### Dynamic
 
+JavaScript is 
+a [dynamic](http://en.wikipedia.org/wiki/Dynamic_programming_language) language. Each
+statement is run one at a time and builds up the application's structure in memory.
+
+    var name = "Project";
+
+
 Name | Phone | Skype | Email
 ------------ | ------------- | ------------ | -------------
 foo | bar | def | abc
