@@ -78,24 +78,24 @@ results in "Project" being created in memory like:
 
 Address | Value | Description
 ------------ | ------------- | --------
-x1000 | ... | ...
-x1001 | string | the type
-x1002 | project | the string's data
-x1003 | ... | ...
+`......` | ... | ...
+`0x1001` | string | the type
+`0x1002` | project | the string's data
+`0x1003` | ... | ...
 
 Next, the left hand side `var str` is run. This creates
 a variable in the current _call object_ (we'll learn more about this in a second) like:
 
 Address | Value
 ------------ | -------------
-... | ...
-x1001 | string
-x1002 | project
-... | ...
-x2001 | call object
-x2002 | 2
-x2003 | str
-x2004 | _empty_
+`......` | ...
+`0x1001` | string
+`0x1002` | project
+`......` | ...
+`0x2001` | call object
+`0x2002` | 2
+`0x2003` | str
+`0x2004` | _empty_
 
 
 ### Closures
