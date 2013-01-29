@@ -97,6 +97,21 @@ Address | Value
 `0x2003` | str
 `0x2004` | _empty_
 
+Finally, the memory address of the `"project"` string is set as the 
+`str`:
+
+Address | Value
+------------ | -------------
+`......` | ...
+`0x1001` | string
+`0x1002` | project
+`......` | ...
+`0x2001` | call object
+`0x2002` | 2
+`0x2003` | str
+`0x2004` | `0x1001`
+
+#### == vs ===
 
 ### Closures
 
