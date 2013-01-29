@@ -111,6 +111,12 @@ Address | Value
 `0x2003` | str
 `0x2004` | `0x1001`
 
+We repesent this as __image of str -> "project"__
+
+### Primitive vs Object types
+
+Passed by reference, copied
+
 #### == vs ===
 
 ### Closures
