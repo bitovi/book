@@ -67,13 +67,36 @@ JavaScript is
 a [dynamic](http://en.wikipedia.org/wiki/Dynamic_programming_language) language. Each
 statement is run one at a time and builds up the application's structure in memory.
 
+For example, lets see how JavaScript runs the following code:
+
 {% highlight javascript %}
-var name = "Project";
+var str = "Project";
 {% endhighlight %}
 
-Name | Phone | Skype | Email
------------- | ------------- | ------------ | -------------
-foo | bar | def | abc
+First, the right-hand-side of the "=" operator is evaluated. This
+results in "Project" being created in memory like:
+
+Address | Value | Description
+------------ | -------------
+x1000 | ... | 
+x1001 | string | the type
+x1002 | project | the string's data
+x1003 | ...
+
+Next, the left hand side `var str` is run. This creates
+a variable in the current _call object_ (we'll learn more about this in a second) like:
+
+Address | Value
+------------ | -------------
+... | ...
+x1001 | string
+x1002 | project
+... | ...
+x2001 | call object
+x2002 | 2
+x2003 | str
+x2004 | _empty_
+
 
 ### Closures
 
