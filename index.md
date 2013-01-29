@@ -77,7 +77,7 @@ First, the right-hand-side of the "=" operator is evaluated. This
 results in "Project" being created in memory like:
 
 Address | Value | Description
------------- | -------------
+------------ | ------------- | --------
 x1000 | ... | ...
 x1001 | string | the type
 x1002 | project | the string's data
